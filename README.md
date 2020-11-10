@@ -12,3 +12,6 @@ BT/WiFi: Fenvi T919
 
 ## Custom Kexts
 USBMap.kext - disables HS14 usb port in order to use OSX compatable bluetooth from PCIe slot instead of integrated bluetooth
+
+## Geekbench 5 Score
+![](https://www.dropbox.com/s/314q9xnr7cyfxyg/Screen%20Shot%202020-11-10%20at%201.02.44%20AM.png?raw=1)
