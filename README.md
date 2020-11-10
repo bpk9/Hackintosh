@@ -15,3 +15,6 @@ USBMap.kext - disables HS14 usb port in order to use OSX compatable bluetooth fr
 
 ## Geekbench 5 Score
 ![](https://www.dropbox.com/s/314q9xnr7cyfxyg/Screen%20Shot%202020-11-10%20at%201.02.44%20AM.png?raw=1)
+
+## OpenCL Score
+![](https://www.dropbox.com/s/ruk136alom0ogl0/Screen%20Shot%202020-11-10%20at%201.09.33%20AM.png?raw=1)
