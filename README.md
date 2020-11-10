@@ -10,6 +10,9 @@ Motherboard: Aorus Z390 Pro Wifi
 
 BT/WiFi: Fenvi T919
 
+## SMBIOS
+iMac (27-inch Retina Early 2019)
+
 ## Custom Kexts
 USBMap.kext - disables HS14 usb port in order to use OSX compatable bluetooth from PCIe slot instead of integrated bluetooth
 
