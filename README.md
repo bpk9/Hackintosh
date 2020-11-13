@@ -8,7 +8,7 @@ GPU: Radeon RX 570
 
 Motherboard: Aorus Z390 Pro Wifi
 
-BT/WiFi: Fenvi T919
+BT/WiFi: Fenvi T919 BCM94360
 
 ## SMBIOS
 iMac (27-inch Retina Early 2019)
